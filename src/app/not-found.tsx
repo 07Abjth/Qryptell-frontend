@@ -5,7 +5,7 @@ function NotFound() {
     <main className="flex flex-col items-center justify-center min-h-screen bg-black">
       <h2 className="text-xl font-bold text-white mt-3">404. Page not found</h2>
 
-      <p className="text-lg text-white mt-3">
+      <p className="text-lg text-white mt-2">
         Sorry, the page you were looking for cannot be found.
       </p>
 
